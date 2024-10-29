@@ -7,7 +7,7 @@
   
 - 💬 Ask me about **gadgets, computers and maybe games**
   
-- 📫 How to reach me: [t.me/wallacemendes](t.me/wallacemendes)
+- 📫 How to reach me: [t.me/wallacemendes](https://t.me/wallacemendes)
 
 
 
