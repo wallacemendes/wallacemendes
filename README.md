@@ -3,8 +3,6 @@
 
 - 🔭 I'm currently building **cloud-first services** with **C# / .NET, ASP.NET Core, GraphQL and REST** on **Azure**, feeding native mobile and web clients.
 
-- 🏗️ I work end-to-end: data modeling and migrations → service layer → API contracts → client integration. Recently a lot of **hybrid-to-multi-tenant-cloud migration** work.
-
 - ⚡ Electronics Technician background before software — I like systems where the code touches real hardware.
 
 - 🎹 Away from the keyboard, I'm at a different keyboard — **music enthusiast and piano player**, permanently in learning mode.
